@@ -1,0 +1,28 @@
+_repo: The-Curse-of-KoshiuA-Chronicle-of-Old-Japan_38853
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wingfield, Lewis
+    birthdate: 1842
+    deathdate: 1891
+    gutenberg_agent_id: '39682'
+    url: http://www.gutenberg.org/2009/agents/39682
+description: ''
+gutenberg_issued: '2012-02-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38853'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Historical fiction'
+- !lcsh 'Japan -- History -- Kamakura period, 1185-1333 -- Fiction'
+- !lcsh 'Hojo family -- Fiction'
+title: 'The Curse of Koshiu: A Chronicle of Old Japan'
+url: http://www.gutenberg.org/ebooks/38853
